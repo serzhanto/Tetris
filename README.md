@@ -4,4 +4,4 @@
 
 _Классический Тетрис, написанный с использованием фреймворка Processing. Это первый мой полностью с нуля реализованный проект._
 
-[Скачать JAR] (https://github.com/serzhanto/Tetris/blob/master/out/artifacts/tetris/Tetris.jar)
+[Скачать JAR] (https://github.com/serzhanto/Tetris/raw/master/out/artifacts/tetris/Tetris.jar)
